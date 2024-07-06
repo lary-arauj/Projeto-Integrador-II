@@ -18,11 +18,11 @@ Curso tecnico de nivel médio em informatica - Instituto Federal - IFAM Campus E
 
 ## FORMAÇÃO COMPLEMENTAR
 
-1 - Atividade: PowerPoint Acadêmico/
-carga horaria: 2h
+1 - Atividade: PowerPoint Acadêmico,/
+carga horaria: 2h/
 2 - Atividade: Como Se Tornar um estudante de alta performance/
-carga horaria: 2h
+carga horaria: 2h/
 3 - Atividade: O mundo microscópio manuseio e preparaçao de lâminas para estudo das células/
-carga horaria: 4h
+carga horaria: 4h/
 4 - Atividade: Metaverso: uma imersão educacional/
-carga horaria: 2h 
+carga horaria: 2h/
