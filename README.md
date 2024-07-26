@@ -24,16 +24,16 @@ carga horaria: 2h/
 
 2 - Atividade: Como Se Tornar um estudante de alta performance/
 carga horaria: 2h/
-[Certificado 2] (certificados-2.pdf)
+[Certificado 2](certificados-2.pdf)
 
 3 - Atividade: O mundo microscópio manuseio e preparaçao de lâminas para estudo das células/19 a 22 de outubro de 2022/ 
 carga horaria: 2h/
-[Certificado 3] (certificados-3.pdf)
+[Certificado 3](certificados-3.pdf)
 
 4 - Atividade: O mundo microscópio manuseio e preparaçao de lâminas para estudo das células/
 carga horaria: 2h/
-[Certificado 4] (certificados-4.pdf)
+[Certificado 4](certificados-4.pdf)
 
 5- Atividade: Metaverso: uma imersão educacional/
 carga horaria: 2h/
-[Certificado 5] (certificados-5.pdf)
+[Certificado 5](certificados-5.pdf)
